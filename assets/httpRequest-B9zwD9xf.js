@@ -1,1 +1,0 @@
-import{t as e}from"./axiosSetup-DrslcAMP.js";var t=(t,n)=>e.post(t,n);export{t};
