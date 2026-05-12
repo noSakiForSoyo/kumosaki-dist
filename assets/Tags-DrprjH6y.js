@@ -1,0 +1,1 @@
+import{L as e,V as t,d as n,m as r,t as i,y as a}from"./_plugin-vue_export-helper-C857K7BB.js";var o={},s={class:`tags-page`};function c(i,o){let c=t(`el-empty`);return e(),r(`div`,s,[o[0]||=n(`h2`,{class:`page-title`},`标签墙`,-1),a(c,{description:`标签功能开发中...`})])}var l=i(o,[[`render`,c],[`__scopeId`,`data-v-87861d79`]]);export{l as default};

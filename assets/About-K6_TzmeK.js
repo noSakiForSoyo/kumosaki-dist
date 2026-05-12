@@ -1,0 +1,1 @@
+import{L as e,V as t,d as n,m as r,t as i,y as a}from"./_plugin-vue_export-helper-C857K7BB.js";var o={},s={class:`about-page`};function c(i,o){let c=t(`el-empty`);return e(),r(`div`,s,[o[0]||=n(`h2`,{class:`page-title`},`关于`,-1),a(c,{description:`关于内容待补充`})])}var l=i(o,[[`render`,c],[`__scopeId`,`data-v-c0c298ed`]]);export{l as default};
